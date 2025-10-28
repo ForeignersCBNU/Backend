@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+.env.local
+
+# Uploads & big docs
+uploads/
+*.pdf
+*.docx
+*.pptx
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
